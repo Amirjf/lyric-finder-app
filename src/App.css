@@ -1,0 +1,22 @@
+body {
+  background: #e5eff1;
+}
+
+.card-track {
+  background: #fff;
+  border-radius: 7px;
+}
+
+.card-track img {
+  width: 80px;
+  border: solid 2px #3d3d3d;
+  border-radius: 50%;
+}
+
+.skeleton{
+    width: 100%;
+}
+
+.hr-main {
+  width: 50%;
+}
